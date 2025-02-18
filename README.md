@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Unity C# Networking
 - 📫 How to reach me: SteamedBunsStudios@gmail.com
 
-<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -15,7 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 </p>
--->
 
 <!--
 ### 🤝🏻 &nbsp;Connect with Me
