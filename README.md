@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nathan Fan</h1>
+<h3 align="center">Game Programmer & Producer with over 4 years of experience</h3>
+
+- 🔭 I’m currently working on a **Async co-op networked puzzle game!**
+- 👨‍💻 All of my projects are available [here](https://steamedbunsstudios.itch.io/)
+- 🌱 I’m currently learning Unity C# Networking
+- 📫 How to reach me: SteamedBunsStudios@gmail.com
+
 
 <!--
 **NathanYBFan/NathanYBFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
