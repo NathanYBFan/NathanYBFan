@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathan Fan</h1>
 <h3 align="center">Game Programmer & Producer with over 4 years of experience</h3>
 
+### ✨ &nbsp;About Me
+
 - 🔭 I’m currently working on a **Async co-op networked puzzle game!**
 - 👨‍💻 All of my projects are available [here](https://steamedbunsstudios.itch.io/)
 - 🌱 I’m currently learning Unity C# Networking
@@ -10,8 +12,8 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanYBFan&theme=vue-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </p>
 
