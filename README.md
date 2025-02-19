@@ -4,9 +4,9 @@
 ### <h3 align="center">✨ &nbsp;About Me </h3>
 
 #### - 🔭 I’m currently working on a **Async co-op networked puzzle game!**
-#### - 👨‍💻 All of my projects are available [here](https://steamedbunsstudios.itch.io/)
-#### - 🌱 I’m currently learning Unity C# Networking
-#### - 📫 How to reach me: SteamedBunsStudios@gmail.com
+#### - 👨‍💻 All of my projects are available [here!](https://steamedbunsstudios.itch.io/)
+#### - 🌱 I’m currently learning **Unity C# Networking**
+#### - 📫 How to reach me: **SteamedBunsStudios@gmail.com**
 </br>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -17,6 +17,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanYBFan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </p>
+</br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
