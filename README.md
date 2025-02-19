@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathan Fan</h1>
 <h3 align="center">Game Programmer & Producer with over 4 years of experience</h3>
 
+---
+
 ### ✨ &nbsp;About Me
 
 #### - 🔭 I’m currently working on a **Async co-op networked puzzle game!**
@@ -8,6 +10,8 @@
 #### - 🌱 I’m currently learning **Unity C# Networking**
 #### - 📫 How to reach me: **SteamedBunsStudios@gmail.com**
 </br>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -19,6 +23,8 @@
 </p>
 </br>
 
+---
+
 ### 🤝🏻 &nbsp;Connect with Me
 
   <p>
@@ -27,6 +33,8 @@
     <a href="mailto:SteamedBunsStudios@gmail.com"><img src="https://img.shields.io/badge/-SteamedBunsStudios@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 </br>
+
+---
 
 ### 🛠 &nbsp;Languages and Tools
 
