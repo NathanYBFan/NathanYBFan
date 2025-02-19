@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Fan</h1>
-<h3 align="center">Game Programmer & Producer with over 4 years of experience</h3>
+<h3 align="center">Game Programmer & Producer : Over 4 years of experience</h3>
 
 ---
 
