@@ -25,17 +25,6 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
-
-  <p>
-    <a href="https://steamedbunsstudios.itch.io/"><img src="https://img.shields.io/badge/-SteamedBunsStudios.itch.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/nathan-fan-741130221/"><img src="https://img.shields.io/badge/-Nathan_Fan_LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:SteamedBunsStudios@gmail.com"><img src="https://img.shields.io/badge/-SteamedBunsStudios@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
-</br>
-
----
-
 ### 🛠 &nbsp;Languages and Tools
 
 <p align="center">
@@ -58,3 +47,13 @@
     <img src="https://skillicons.dev/icons?i=unreal,unity,godot,visualstudio,vscode,github,windows" />
   </a>
 </p>
+
+---
+### 🤝🏻 &nbsp;Connect with Me
+
+  <p>
+    <a href="https://steamedbunsstudios.itch.io/"><img src="https://img.shields.io/badge/-SteamedBunsStudios.itch.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/nathan-fan-741130221/"><img src="https://img.shields.io/badge/-Nathan_Fan_LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:SteamedBunsStudios@gmail.com"><img src="https://img.shields.io/badge/-SteamedBunsStudios@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  </p>
+</br>
