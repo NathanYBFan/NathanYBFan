@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Fan</h1>
 <h3 align="center">Game Programmer & Producer with over 4 years of experience</h3>
 
-### <h3 align="center">✨ &nbsp;About Me </h3>
+### ✨ &nbsp;About Me
 
 #### - 🔭 I’m currently working on a **Async co-op networked puzzle game!**
 #### - 👨‍💻 All of my projects are available [here!](https://steamedbunsstudios.itch.io/)
