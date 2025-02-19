@@ -28,10 +28,9 @@
 </br>
 
 ### 🛠 &nbsp;Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,visualstudio,vscode,github,windows" />
 
+<p align="center">
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -45,5 +44,8 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   <br/>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,visualstudio,vscode,github,windows" />
   </a>
 </p>
